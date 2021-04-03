@@ -1,5 +1,3 @@
-In legatura cu primul subpunct al problemei, pentru verificarea functionaltitatilor am folosit postman.
-Am creat o baza de date de tip MySql in care am stocat datele userilor. In application.properties se gaseste configuratia bazei de date.
 
 
 
